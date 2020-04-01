@@ -6,4 +6,7 @@ In real life example, you won't use Simple RNN. LSTM and GRU are more likely to 
 #### SimpleRNN-template
 There is no real use for this other than understanding the concept of recurrent network.
 
+#### AdvancedRNN-template
+This covers both LSTM and GRU
 
+#### 
