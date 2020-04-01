@@ -9,4 +9,7 @@ There is no real use for this other than understanding the concept of recurrent 
 #### AdvancedRNN-template
 This covers both LSTM and GRU
 
-#### 
+#### SPINN-template
+This covers SPINN. Popular with Natural Language Processing.
+
+
