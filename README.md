@@ -12,5 +12,5 @@ In real life example, you won't use Simple RNN. LSTM and GRU are more likely to 
 #### SPINN-template
 - This covers SPINN. Popular with Natural Language Processing.
 
-#### SPINN-template
+#### sales-forecasting
 - Time Series prediction. Predict a week's sales data based on the preceeding 1 year's sales data.
