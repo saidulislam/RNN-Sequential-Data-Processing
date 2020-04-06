@@ -14,3 +14,6 @@ In real life example, you won't use Simple RNN. LSTM and GRU are more likely to 
 
 #### Sales-Forecasting
 - Time Series prediction. Predict a week's sales data based on the preceeding 1 year's sales data.
+
+#### Alcohol-Sales-Prediction
+- Time Series prediction. Predict a year's sales data based on the preceeding years' sales data
